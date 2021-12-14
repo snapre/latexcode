@@ -1,0 +1,23 @@
+{
+  "name": "latexcode",
+  "version": "1.0.0",
+  "description": "latex code editor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snapre/latexcode.git"
+  },
+  "author": "snapre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/snapre/latexcode/issues"
+  },
+  "homepage": "https://github.com/snapre/latexcode#readme",
+  "devDependencies": {
+    "electron": "^16.0.4"
+  }
+}
