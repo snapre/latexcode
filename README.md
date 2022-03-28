@@ -1,2 +1,2 @@
-# latexcode
+# [WIP] latexcode
 latex code editor
